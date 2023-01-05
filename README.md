@@ -1,2 +1,2 @@
-# JAVA_Money_Tracker
+# Money Tracker Application
 An application for tracking and managing expenses
